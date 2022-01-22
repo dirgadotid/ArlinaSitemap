@@ -1,0 +1,11 @@
+<style>
+.kodejarwo-sitemap-list {}
+.kodejarwo-sitemap-list ul {padding:0;margin:0;box-shadow:0 0 10px rgba(0,0,0,.2);}
+.kodejarwo-sitemap-list ul li.judul {padding:10px 20px;list-style:none;margin:0;font-family:arial;font-size:17px;font-weight:700;text-transform:uppercase}
+.kodejarwo-sitemap-list ul ul li.menu {list-style:none;margin:0;}
+.kodejarwo-sitemap-list ul ul li a {padding:10px 30px;background:#454359;border-bottom:2px solid #3f3e4e;width:100%;color:white !important;display:inline-block}
+.kodejarwo-sitemap-list ul ul li a:link {color:white !important;font-family:arial;font-size:15px}
+.kodejarwo-sitemap-list ul ul li a:hover {opacity:0.8}
+.kodejarwo-sitemap-list ul ul li a strong {float:right}
+</style>
+<script async='async' src='https://cdn.rawgit.com/BangJarwo/Kode-Jarwo/ba6b6cf5/Sitemap.js'></script>
